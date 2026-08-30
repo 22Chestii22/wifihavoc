@@ -1,0 +1,19 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Wifi icon in a shield / havoc bolt -->
+    <path
+        android:fillColor="#22D3EE"
+        android:pathData="M54,72 c-4,0 -7,-3 -7,-7 s3,-7 7,-7 s7,3 7,7 s-3,7 -7,7z" />
+    <path
+        android:fillColor="#22D3EE"
+        android:pathData="M35,52 a26,26 0 0,1 38,0 l-5,5 a19,19 0 0,0 -28,0z" />
+    <path
+        android:fillColor="#22D3EE"
+        android:pathData="M24,38 a44,44 0 0,1 60,0 l-5,5 a37,37 0 0,0 -50,0z" />
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M54,44 l4,9 -8,3 9,9 -3,12 14,-16 -8,-3 7,-9z" />
+</vector>
