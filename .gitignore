@@ -9,6 +9,9 @@ local.properties
 *.iml
 .vscode/
 
+# Agent working dir
+.omo/
+
 # Kotlin
 .kotlin/
 
